@@ -1,0 +1,53 @@
+- title: "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention"
+  image: adapter.png
+  description: This repo proposes LLaMA-Adapter (V2), a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models.
+  authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
+  link:
+    url: https://arxiv.org/abs/2303.16199
+    display: arXiv
+  highlight: 1
+
+- title: "ImageBind-LLM: Multi-modality Instruction Tuning"
+  image: ImageBind-LLM.png
+  description: We present ImageBind-LLM, a multi-modality instruction tuning method of large language models (LLMs) via ImageBind.
+  authors: Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao
+  link:
+    url: https://arxiv.org/abs/2309.03905
+    display: arXiv
+  highlight: 1
+
+- title: "X-Accessory: An Open-source Toolkit for LLM Development"
+  image: x-accessory.png
+  description: LLaMA2-Accessory is an open-source toolkit for pre-training, fine-tuning and deployment of Large Language Models (LLMs) and mutlimodal LLMs.
+  authors: Chris Liu, Ziyi Lin, Guian Fang, Jiaming Han, Yijiang Liu, Renrui Zhang, Peng Gao, Wenqi Shao, Shanghang Zhang
+  link:
+    url: https://github.com/Alpha-VLLM/LLaMA2-Accessory
+    display: github
+  highlight: 1
+
+- title: "MCMAE: Masked Convolution Meets Masked Autoencoders"
+  image: ConvMAE.png
+  description: ConvMAE framework demonstrates that multi-scale hybrid convolution-transformer can learn more discriminative representations via the mask auto-encoding scheme.
+  authors: Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao
+  link:
+    url: https://arxiv.org/abs/2205.03892
+    display: arXiv
+  highlight: 1
+
+- title: "CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
+  image: pipeline.jpg
+  description: CLIP-Adapter is a drop-in module designed for CLIP on few-shot classfication tasks. CLIP-Adapter can improve the few-shot classfication of CLIP with very simple design.
+  authors: Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao
+  link:
+    url: https://arxiv.org/abs/2110.04544
+    display: arXiv
+  highlight: 1
+
+- title: "Container : Context Aggregation Network"
+  image: conv_mlp_transformer.jpg
+  description: We present the CONTAINER (CONText AggregatIon NEtwoRk), a general-purpose building block for multi-head context aggregation that can exploit long-range interactions a la Transformers while still exploiting the inductive bias of the local convolution operation leading to faster convergence speeds, often seen in CNNs.
+  authors: Peng Gao, Jiasen Lu, Hongsheng Li, Roozbeh Mottaghi, Aniruddha Kembhavi
+  link:
+    url: https://arxiv.org/abs/2106.01401
+    display: arXiv
+  highlight: 1
