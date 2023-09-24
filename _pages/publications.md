@@ -1,12 +1,10 @@
 ---
-title: "Alpha-VLLM team - Publications"
+title: "Alpha-VLLM team - Works"
 layout: gridlay
-excerpt: "Alpha-VLLM team -- Publications."
+excerpt: "Alpha-VLLM team -- Works."
 sitemap: false
-permalink: /publications/
+permalink: /works/
 ---
-
-
 # Publications
 
 ## Group highlights
@@ -20,6 +18,7 @@ permalink: /publications/
 {% if publi.highlight == 1 %}
 
 {% if even_odd == 0 %}
+
 <div class="row">
 {% endif %}
 
@@ -38,7 +37,11 @@ permalink: /publications/
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
+
 </div>
+{% endif %}
+
+
 {% endif %}
 
 {% endif %}
@@ -46,22 +49,26 @@ permalink: /publications/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
+
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
 
+{% endif %}
+
+<p>   </p>
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+`<em>`Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek`</em><br />`Novel atomic force microscopy probes with phononic crystals`<br />` PCT/NL20-20/050797 (2020)
+
+`<em>`Milan P Allan`</em><br />` Methods of manufacturing superconductor and phononic elements `<br />` `<a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">`US10439125B2 (2016)`</a>`
 
 ## Full List of publications
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {{ publi.title }} `<br />`
+  `<em>`{{ publi.authors }} `</em><br />``<a href="{{ publi.link.url }}">`{{ publi.link.display }}`</a>`
 
 {% endfor %}
