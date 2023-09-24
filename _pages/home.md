@@ -5,8 +5,8 @@ excerpt: "Alpha-VLLM team at Shanghai AI Lab."
 sitemap: false
 permalink: /
 ---
-**News: Our group will move to LMU Munich!** During the next two years, we will build up a group at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+
+ **We are hiring interns, postdocs, and full-time researchers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -50,4 +50,3 @@ More details to follow.
 
 
 
- **We are hiring interns, postdocs, and full-time researchers to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
