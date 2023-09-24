@@ -50,7 +50,6 @@ permalink: /works/
 <p> &nbsp; </p>
 
 ## All Research Projects
-SMCA, Tip-Adapter, Point-CLIP, PerSAM
 
 {% for publi in site.data.project %}
 
