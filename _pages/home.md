@@ -36,7 +36,7 @@ More details to follow.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slide/x-accessory.png" alt="Slide 5" />
         </div>
     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slide/x-accessory.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
