@@ -9,7 +9,7 @@
 
 - title: "ImageBind-LLM: Multi-modality Instruction Tuning"
   image: ImageBind-LLM.png
-  description: We present ImageBind-LLM, a multi-modality instruction tuning method of large language models (LLMs) via ImageBind.
+  description: We present ImageBind-LLM, a multi-modality instruction tuning method of LLMs via ImageBind.
   authors: Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao
   link:
     url: https://arxiv.org/abs/2309.03905
@@ -51,3 +51,42 @@
     url: https://arxiv.org/abs/2106.01401
     display: arXiv
   highlight: 1
+
+- title: "SMCA : Fast convergence of detr with spatially modulated co-attention"
+  image:
+  description: 
+  authors: Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2101.07448
+    display: arXiv
+  highlight: 0
+
+- title: "PointCLIP: Point Cloud Understanding by CLIP"
+  image:
+  description: 
+  authors: Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2112.02413
+    display: arXiv
+  highlight: 0
+
+
+- title: "Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling"
+  image:
+  description: 
+  authors: Renrui Zhang, Rongyao Fang, Wei Zhang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2111.03930
+    display: arXiv
+  highlight: 0
+
+
+- title: "PerSAM : Personalize Segment Anything Model with One Shot"
+  image:
+  description: 
+  authors: Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2305.03048
+    display: arXiv
+  highlight: 0
+
