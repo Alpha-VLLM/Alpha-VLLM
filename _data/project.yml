@@ -7,6 +7,15 @@
     display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
   highlight: 1
 
+- title: "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model"
+  image: adapter.png
+  description: We present LLaMA-Adapter V2, a parameter-efficient visual instruction model.
+  authors: Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao
+  link:
+    url: https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b
+    display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
+  highlight: 0
+
 - title: "ImageBind-LLM: Multi-modality Instruction Tuning"
   image: ImageBind-LLM.png
   description: We present ImageBind-LLM, a multi-modality instruction tuning method of LLMs via ImageBind.

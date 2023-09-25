@@ -54,7 +54,7 @@ permalink: /works/
 
 <p> &nbsp; </p>
 
-## All Research Projects
+## All Research Projects  ![Star](https://img.shields.io/badge/Overall_Stars-9k-blue?style=social&logo=github)
 
 {% for publi in site.data.project %}
 
