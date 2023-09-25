@@ -16,13 +16,13 @@
     display: arXiv
   highlight: 1
 
-- title: "X-Accessory: An Open-source Toolkit for LLM Development[![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory?style=social&label=Star)](https://github.com/Alpha-VLLM/LLaMA2-Accessory)"
+- title: "X-Accessory: An Open-source Toolkit for LLM Development"
   image: x-accessory.png
   description: LLaMA2-Accessory is an open-source toolkit for pre-training, fine-tuning and deployment of Large Language Models (LLMs) and mutlimodal LLMs.
   authors: Chris Liu, Ziyi Lin, Guian Fang, Jiaming Han, Yijiang Liu, Renrui Zhang, Peng Gao, Wenqi Shao, Shanghang Zhang
   link:
     url: https://github.com/Alpha-VLLM/LLaMA2-Accessory
-    display: github
+    display: ![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory?style=social&label=Star)
   highlight: 1
 
 - title: "MCMAE: Masked Convolution Meets Masked Autoencoders"
