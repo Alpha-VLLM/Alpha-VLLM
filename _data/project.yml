@@ -3,8 +3,8 @@
   description: This repo proposes LLaMA-Adapter (V2), a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models.
   authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
   link:
-    url: https://arxiv.org/abs/2303.16199
-    display: arXiv
+    url: https://github.com/OpenGVLab/LLaMA-Adapter
+    display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
   highlight: 1
 
 - title: "ImageBind-LLM: Multi-modality Instruction Tuning"
@@ -12,8 +12,8 @@
   description: We present ImageBind-LLM, a multi-modality instruction tuning method of LLMs via ImageBind.
   authors: Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao
   link:
-    url: https://arxiv.org/abs/2309.03905
-    display: arXiv
+    url: https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM
+    display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
   highlight: 1
 
 - title: "X-Accessory: An Open-source Toolkit for LLM Development"
@@ -30,8 +30,8 @@
   description: ConvMAE framework demonstrates that multi-scale hybrid convolution-transformer can learn more discriminative representations via the mask auto-encoding scheme.
   authors: Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao
   link:
-    url: https://arxiv.org/abs/2205.03892
-    display: arXiv
+    url: https://github.com/Alpha-VL/ConvMAE
+    display: "![Star](https://img.shields.io/github/stars/Alpha-VL/ConvMAE?style=social&label=Star)"
   highlight: 1
 
 - title: "CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
@@ -39,8 +39,8 @@
   description: CLIP-Adapter is a drop-in module designed for CLIP on few-shot classfication tasks. CLIP-Adapter can improve the few-shot classfication of CLIP with very simple design.
   authors: Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao
   link:
-    url: https://arxiv.org/abs/2110.04544
-    display: arXiv
+    url: https://github.com/gaopengcuhk/CLIP-Adapter
+    display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/CLIP-Adapter?style=social&label=Star)"
   highlight: 1
 
 - title: "Container : Context Aggregation Network"
@@ -48,8 +48,8 @@
   description: We present the CONTAINER (CONText AggregatIon NEtwoRk), a general-purpose building block for multi-head context aggregation that can exploit long-range interactions a la Transformers while still exploiting the inductive bias of the local convolution operation leading to faster convergence speeds, often seen in CNNs.
   authors: Peng Gao, Jiasen Lu, Hongsheng Li, Roozbeh Mottaghi, Aniruddha Kembhavi
   link:
-    url: https://arxiv.org/abs/2106.01401
-    display: arXiv
+    url: https://github.com/gaopengcuhk/Container
+    display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/Container?style=social&label=Star)"
   highlight: 1
 
 - title: "SMCA : Fast convergence of detr with spatially modulated co-attention"
@@ -57,8 +57,8 @@
   description: 
   authors: Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li
   link:
-    url: https://arxiv.org/abs/2101.07448
-    display: arXiv
+    url: https://github.com/gaopengcuhk/SMCA-DETR
+    display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/SMCA-DETR?style=social&label=Star)"
   highlight: 0
 
 - title: "PointCLIP: Point Cloud Understanding by CLIP"
@@ -66,8 +66,8 @@
   description: 
   authors: Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li
   link:
-    url: https://arxiv.org/abs/2112.02413
-    display: arXiv
+    url: https://github.com/ZrrSkywalker/PointCLIP
+    display: "![Star](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP?style=social&label=Star)"
   highlight: 0
 
 
@@ -76,8 +76,8 @@
   description: 
   authors: Renrui Zhang, Rongyao Fang, Wei Zhang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li
   link:
-    url: https://arxiv.org/abs/2111.03930
-    display: arXiv
+    url: https://github.com/gaopengcuhk/Tip-Adapter
+    display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/Tip-Adapter?style=social&label=Star)"
   highlight: 0
 
 
@@ -86,7 +86,7 @@
   description: 
   authors: Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li
   link:
-    url: https://arxiv.org/abs/2305.03048
-    display: arXiv
+    url: https://github.com/ZrrSkywalker/Personalize-SAM
+    display: "![Star](https://img.shields.io/github/stars/ZrrSkywalker/Personalize-SAM?style=social&label=Star)"
   highlight: 0
 
