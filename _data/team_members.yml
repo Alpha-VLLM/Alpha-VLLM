@@ -8,7 +8,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="https://alpha-vllm.github.io/Alpha-VLLM/vacancies">openings</a> for more info
+  info: See <a href="https://alpha-vllm.github.io/vacancies">openings</a> for more info
   email: Alpha-VLLM@gmail.com
   number_educ: 0
   education1:
