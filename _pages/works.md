@@ -9,6 +9,11 @@ permalink: /works/
 
 # Works
 
+## Reseach Area
+- Mulitmodal Large Language Model, 
+- Generative Agenst
+- Diffusion Model
+
 ## Project Highlights 
 
 {% assign number_printed = 0 %}

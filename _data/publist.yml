@@ -1,4 +1,4 @@
-- title: "[CVPR 2023]Learning 3D Representations from 2D Pre-trained Models via
+- title: "**[CVPR 2023]**Learning 3D Representations from 2D Pre-trained Models via
   Image-to-Point Masked Autoencoders"
   image:
   description: 
@@ -8,7 +8,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2023]Parameter is Not All You Need: Starting from Non-Parametric Networks for
+- title: "**[CVPR 2023]**Parameter is Not All You Need: Starting from Non-Parametric Networks for
   3D Point Cloud Analysis"
   image:
   description: 
@@ -18,7 +18,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2023]Stare at What You See: Masked Image Modeling without Reconstruction"
+- title: "**[CVPR 2023]**Stare at What You See: Masked Image Modeling without Reconstruction"
   image:
   description: 
   authors: Hongwei Xue, Peng Gao, Hongyang Li, Yu Qiao, Hao Sun, Houqiang Li, Jiebo Luo
@@ -27,7 +27,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2023]Q-DETR: An Efficient Low-Bit Quantized Detection Transformer"
+- title: "**[CVPR 2023]**Q-DETR: An Efficient Low-Bit Quantized Detection Transformer"
   image:
   description: 
   authors: Sheng Xu, Yanjing Li, Mingbao Lin, Peng Gao, Guodong Guo, Jinhu Lu, Baochang Zhang
@@ -36,7 +36,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2023]Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong
+- title: "**[CVPR 2023]**Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong
   Few-shot Learners"
   image:
   description: 
@@ -46,7 +46,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2023]Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior
+- title: "**[ICCV 2023]**Not All Features Matter: Enhancing Few-shot CLIP with Adaptive Prior
   Refinement"
   image:
   description: 
@@ -56,7 +56,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2023]MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection"
+- title: "**[ICCV 2023]**MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection"
   image:
   description: 
   authors: Renrui Zhang, Han Qiu, Tai Wang, Ziyu Guo, Xuanzhuo Xu, Ziteng Cui, Yu Qiao, Peng Gao, Hongsheng Li
@@ -65,7 +65,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2023]PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning"
+- title: "**[ICCV 2023]**PointCLIP V2: Prompting CLIP and GPT for Powerful 3D Open-world Learning"
   image:
   description: 
   authors: Xiangyang Zhu, Renrui Zhang, Bowei He, Ziyu Guo, Ziyao Zeng, Zipeng Qin, Shanghang Zhang, Peng Gao
@@ -74,7 +74,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2023]SparseMAE: Sparse Training Meets Masked Autoencoders"
+- title: "**[ICCV 2023]**SparseMAE: Sparse Training Meets Masked Autoencoders"
   image:
   description: 
   authors: A. Zhou, Y. Li, J. Liu, J. Pan, R. Zhang, P. Gao, R. Zhao, H. Li.
@@ -83,7 +83,7 @@
     display: 
   highlight: 0
 
-- title: "[ACMMM 2023]SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification"
+- title: "**[ACMMM 2023]**SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification"
   image:
   description: 
   authors: Siyuan Huang, Bo Zhang, Botian Shi, Peng Gao, Yikang Li, Hongsheng Li
@@ -92,7 +92,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[TPAMI 2023]UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning"
+- title: "**[TPAMI 2023]**UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning"
   image:
   description: 
   authors: Kunchang Li, Yali Wang, Peng Gao, Guanglu Song, Yu Liu, Hongsheng Li, Yu Qiao
@@ -101,7 +101,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[IJCV 2023]CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
+- title: "**[IJCV 2023]**CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
   image:
   description: 
   authors: Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao
@@ -110,7 +110,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[IJCV 2023]Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature
+- title: "**[IJCV 2023]**Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature
   Mimicking"
   image:
   description: 
@@ -120,7 +120,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2022]Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification"
+- title: "**[ECCV 2022]**Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification"
   image:
   description: 
   authors: Renrui Zhang, Zhang Wei, Rongyao Fang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li
@@ -129,7 +129,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2022]Recurrent Bilinear Optimization for Binary Neural Networks"
+- title: "**[ECCV 2022]**Recurrent Bilinear Optimization for Binary Neural Networks"
   image:
   description: 
   authors: Sheng Xu, Yanjing Li, Tiancheng Wang, Teli Ma, Baochang Zhang, Peng Gao, Yu Qiao, Jinhu Lv, Guodong Guo
@@ -138,7 +138,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2022]IDa-Det: An Information Discrepancy-aware Distillation for 1-bit Detectors"
+- title: "**[ECCV 2022]**IDa-Det: An Information Discrepancy-aware Distillation for 1-bit Detectors"
   image:
   description: 
   authors: Sheng Xu, Yanjing Li, Bohan Zeng, Teli ma, Baochang Zhang, Xianbin Cao, Peng Gao, Jinhu Lv
@@ -147,7 +147,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2022]Prototypical Contrast Adaptation for Domain Adaptive Semantic
+- title: "**[ECCV 2022]**Prototypical Contrast Adaptation for Domain Adaptive Semantic
   Segmentation"
   image:
   description: 
@@ -157,7 +157,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2022]Frozen CLIP Models are Efficient Video Learners"
+- title: "**[ECCV 2022]**Frozen CLIP Models are Efficient Video Learners"
   image:
   description: 
   authors: Ziyi Lin, Shijie Geng, Renrui Zhang, Peng Gao, Gerard de Melo, Xiaogang Wang, Jifeng Dai, Yu Qiao, Hongsheng Li
@@ -166,7 +166,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[NeurIPS 2022]Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training"
+- title: "**[NeurIPS 2022]**Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training"
   image:
   description: 
   authors: Renrui Zhang, Ziyu Guo, Rongyao Fang, Bin Zhao, Dong Wang, Yu Qiao, Hongsheng Li, Peng Gao
@@ -175,7 +175,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[NeurIPS 2022]Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer"
+- title: "**[NeurIPS 2022]**Q-ViT: Accurate and Fully Quantized Low-bit Vision Transformer"
   image:
   description: 
   authors: Yanjing Li, Sheng Xu, Baochang Zhang, Xianbin Cao, Peng Gao, Guodong Guo
@@ -184,7 +184,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[NeurIPS 2022]MCMAE: Masked Convolution Meets Masked Autoencoders"
+- title: "**[NeurIPS 2022]**MCMAE: Masked Convolution Meets Masked Autoencoders"
   image:
   description: 
   authors: Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao
@@ -193,7 +193,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2022]PointCLIP: Point Cloud Understanding by CLIP"
+- title: "**[CVPR 2022]**PointCLIP: Point Cloud Understanding by CLIP"
   image:
   description: 
   authors: Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li
@@ -202,7 +202,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICLR 2022]UniFormer: Unifying Convolution and Self-attention for Visual Recognition"
+- title: "**[ICLR 2022]**UniFormer: Unifying Convolution and Self-attention for Visual Recognition"
   image:
   description: 
   authors: Kunchang Li, Yali Wang, Junhao Zhang, Peng Gao, Guanglu Song, Yu Liu, Hongsheng Li, Yu Qiao
@@ -211,7 +211,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[NeruIPS 2021]Container: Context Aggregation Networks"
+- title: "**[NeruIPS 2021]**Container: Context Aggregation Networks"
   image:
   description: 
   authors: Peng Gao, Jiasen Lu, Hongsheng Li, Roozbeh Mottaghi, Aniruddha Kembhavi
@@ -220,7 +220,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[NeruIPS 2021]Dual-stream Network for Visual Recognition"
+- title: "**[NeruIPS 2021]**Dual-stream Network for Visual Recognition"
   image:
   description: 
   authors: Mingyuan Mao, Renrui Zhang, Honghui Zheng, Peng Gao, Teli Ma, Yan Peng, Errui Ding, Baochang Zhang, Shumin Han
@@ -229,7 +229,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2021]Fast Convergence of DETR with Spatially Modulated Co-Attention"
+- title: "**[ICCV 2021]**Fast Convergence of DETR with Spatially Modulated Co-Attention"
   image:
   description: 
   authors: Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li
@@ -238,7 +238,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ICCV 2019]Multi-modality Latent Interaction Network for Visual Question Answering"
+- title: "**[ICCV 2019]**Multi-modality Latent Interaction Network for Visual Question Answering"
   image:
   description: 
   authors: Peng Gao, Haoxuan You, Zhanpeng Zhang, Xiaogang Wang, Hongsheng Li
@@ -247,7 +247,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[CVPR 2019]Dynamic Fusion with Intra- and Inter- Modality Attention Flow for Visual
+- title: "**[CVPR 2019]**Dynamic Fusion with Intra- and Inter- Modality Attention Flow for Visual
   Question Answering"
   image:
   description: 
@@ -257,7 +257,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[ECCV 2018]Question-Guided Hybrid Convolution for Visual Question Answering"
+- title: "**[ECCV 2018]**Question-Guided Hybrid Convolution for Visual Question Answering"
   image:
   description: 
   authors: Peng Gao, Pan Lu, Hongsheng Li, Shuang Li, Yikang Li, Steven Hoi, Xiaogang Wang
@@ -266,7 +266,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[Arxiv 2023]LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models
+- title: "**[Arxiv 2023]**LVLM-eHub: A Comprehensive Evaluation Benchmark for Large Vision-Language Models
   Attention"
   image:
   description: 
@@ -276,7 +276,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[Arxiv 2023]LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model"
+- title: "**[Arxiv 2023]**LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model"
   image:
   description: 
   authors: Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao
@@ -285,7 +285,7 @@
     display: arXiv
   highlight: 0
 
-- title: "[Arxiv 2023]LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
+- title: "**[Arxiv 2023]**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
   Attention"
   image:
   description: 
