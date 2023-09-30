@@ -9,6 +9,10 @@ permalink: /works/
 
 # Works
 
+In publications resulting from research conducted in our laboratory, we follow the convention of indicating all co-first authors by bolding their names in the authorship listing. Additionally, the corresponding author or authors will be noted with a dagger symbol (†). 
+
+**At the end of this page, you can find the [full list of publications and project](#All-Publication-by-year).**
+
 ## Reseach Area
 - Mulitmodal Large Language Model, 
 - Generative Agenst

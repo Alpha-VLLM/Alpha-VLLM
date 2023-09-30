@@ -10,7 +10,7 @@
 - title: "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model"
   image: adapter.png
   description: This repo proposes LLaMA-Adapter (V2), a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models.
-  authors: Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao
+  authors: <strong>Peng Gao<sup>&dagger;</sup>, Jiaming Han, Renrui Zhang, Ziyi Lin</strong>, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li<sup>&dagger;</sup>, Yu Qiao<sup>&dagger;</sup>
   link:
     url: https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/llama_adapter_v2_multimodal7b
     display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
