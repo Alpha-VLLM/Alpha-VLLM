@@ -1,7 +1,7 @@
 - title: "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention"
   image: adapter.png
   description: This repo proposes LLaMA-Adapter (V2), a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models.
-  authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
+  authors: <strong>Renrui Zhang, Jiaming Han</strong>, Chris Liu, Peng Gao<sup>&dagger;</sup>, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li<sup>&dagger;</sup>, Yu Qiao<sup>&dagger;</sup>
   link:
     url: https://github.com/OpenGVLab/LLaMA-Adapter
     display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
@@ -19,7 +19,7 @@
 - title: "ImageBind-LLM: Multi-modality Instruction Tuning"
   image: ImageBind-LLM.png
   description: We present ImageBind-LLM, a multi-modality instruction tuning method of LLMs via ImageBind.
-  authors: Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue, Hongsheng Li, Yu Qiao
+  authors: <strong>Jiaming Han, Renrui Zhang, Wenqi Shao, Peng Gao, Peng Xu, Han Xiao</strong>, Kaipeng Zhang, Chris Liu, Song Wen, Ziyu Guo, Xudong Lu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Xiangyu Yue<sup>&dagger;</sup>, Hongsheng Li<sup>&dagger;</sup>, Yu Qiao<sup>&dagger;</sup>
   link:
     url: https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM
     display: "![Star](https://img.shields.io/github/stars/OpenGVLab/LLaMA-Adapter?style=social&label=Star)"
@@ -28,7 +28,7 @@
 - title: "X-Accessory: An Open-source Toolkit for LLM Development"
   image: x-accessory.png
   description: LLaMA2-Accessory is an open-source toolkit for pre-training, fine-tuning and deployment of Large Language Models (LLMs) and mutlimodal LLMs.
-  authors: Chris Liu, Ziyi Lin, Guian Fang, Jiaming Han, Yijiang Liu, Renrui Zhang, Peng Gao, Wenqi Shao, Shanghang Zhang
+  authors: <strong>Chris Liu, Ziyi Lin, Guian Fang, Jiaming Han</strong>, Yijiang Liu, Renrui Zhang, Peng Gao<sup>&dagger;</sup>, Wenqi Shao<sup>&dagger;</sup>, Shanghang Zhang<sup>&dagger;</sup>
   link:
     url: https://github.com/Alpha-VLLM/LLaMA2-Accessory
     display: "![Star](https://img.shields.io/github/stars/Alpha-VLLM/LLaMA2-Accessory?style=social&label=Star)"
@@ -37,7 +37,7 @@
 - title: "MCMAE: Masked Convolution Meets Masked Autoencoders"
   image: ConvMAE.png
   description: ConvMAE framework demonstrates that multi-scale hybrid convolution-transformer can learn more discriminative representations via the mask auto-encoding scheme.
-  authors: Peng Gao, Teli Ma, Hongsheng Li, Ziyi Lin, Jifeng Dai, Yu Qiao
+  authors: <strong>Peng Gao</strong>, Teli Ma, Hongsheng Li<sup>&dagger;</sup>, Ziyi Lin, Jifeng Dai, Yu Qiao<sup>&dagger;</sup>
   link:
     url: https://github.com/Alpha-VL/ConvMAE
     display: "![Star](https://img.shields.io/github/stars/Alpha-VL/ConvMAE?style=social&label=Star)"
@@ -46,7 +46,7 @@
 - title: "CLIP-Adapter: Better Vision-Language Models with Feature Adapters"
   image: pipeline.jpg
   description: CLIP-Adapter is a drop-in module designed for CLIP on few-shot classfication tasks. CLIP-Adapter can improve the few-shot classfication of CLIP with very simple design.
-  authors: Peng Gao, Shijie Geng, Renrui Zhang, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li, Yu Qiao
+  authors: <strong>Peng Gao, Shijie Geng, Renrui Zhang</strong>, Teli Ma, Rongyao Fang, Yongfeng Zhang, Hongsheng Li<sup>&dagger;</sup>, Yu Qiao<sup>&dagger;</sup>
   link:
     url: https://github.com/gaopengcuhk/CLIP-Adapter
     display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/CLIP-Adapter?style=social&label=Star)"
@@ -55,7 +55,7 @@
 - title: "Container : Context Aggregation Network"
   image: conv_mlp_transformer.jpg
   description: We present the CONTAINER (CONText AggregatIon NEtwoRk), a general-purpose building block for multi-head context aggregation that can exploit long-range interactions a la Transformers while still exploiting the inductive bias of the local convolution operation leading to faster convergence speeds, often seen in CNNs.
-  authors: Peng Gao, Jiasen Lu, Hongsheng Li, Roozbeh Mottaghi, Aniruddha Kembhavi
+  authors: <strong>Peng Gao</strong>, Jiasen Lu, Hongsheng Li<sup>&dagger;</sup>, Roozbeh Mottaghi<sup>&dagger;</sup>, Aniruddha Kembhavi<sup>&dagger;</sup>
   link:
     url: https://github.com/gaopengcuhk/Container
     display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/Container?style=social&label=Star)"
@@ -64,7 +64,7 @@
 - title: "SMCA : Fast convergence of detr with spatially modulated co-attention"
   image:
   description: 
-  authors: Peng Gao, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li
+  authors: <strong>Peng Gao</strong>, Minghang Zheng, Xiaogang Wang, Jifeng Dai, Hongsheng Li<sup>&dagger;</sup>
   link:
     url: https://github.com/gaopengcuhk/SMCA-DETR
     display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/SMCA-DETR?style=social&label=Star)"
@@ -73,7 +73,7 @@
 - title: "PointCLIP: Point Cloud Understanding by CLIP"
   image:
   description: 
-  authors: Renrui Zhang, Ziyu Guo, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao, Peng Gao, Hongsheng Li
+  authors: <strong>Renrui Zhang, Ziyu Guo</strong>, Wei Zhang, Kunchang Li, Xupeng Miao, Bin Cui, Yu Qiao<sup>&dagger;</sup>, Peng Gao, Hongsheng Li<sup>&dagger;</sup>
   link:
     url: https://github.com/ZrrSkywalker/PointCLIP
     display: "![Star](https://img.shields.io/github/stars/ZrrSkywalker/PointCLIP?style=social&label=Star)"
@@ -83,7 +83,7 @@
 - title: "Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling"
   image:
   description: 
-  authors: Renrui Zhang, Rongyao Fang, Wei Zhang, Peng Gao, Kunchang Li, Jifeng Dai, Yu Qiao, Hongsheng Li
+  authors: <strong>Renrui Zhang, Wei Zhang</strong>, Rongyao Fang, Peng Gao<sup>&dagger;</sup>, Kunchang Li, Jifeng Dai, Yu Qiao<sup>&dagger;</sup>, Hongsheng Li<sup>&dagger;</sup>
   link:
     url: https://github.com/gaopengcuhk/Tip-Adapter
     display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/Tip-Adapter?style=social&label=Star)"
@@ -93,7 +93,7 @@
 - title: "PerSAM : Personalize Segment Anything Model with One Shot"
   image:
   description: 
-  authors: Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li
+  authors: <strong>Renrui Zhang</strong>, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Hao Dong, Peng Gao, Hongsheng Li<sup>&dagger;</sup>
   link:
     url: https://github.com/ZrrSkywalker/Personalize-SAM
     display: "![Star](https://img.shields.io/github/stars/ZrrSkywalker/Personalize-SAM?style=social&label=Star)"
