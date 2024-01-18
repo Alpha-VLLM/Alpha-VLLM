@@ -32,7 +32,7 @@
   authors: 
   link:
     url: https://openreview.net/forum?id=gC6JTEU3jl
-    display: arXiv
+    display: openreview
   highlight: 0
 
 - title: "**[CVPR 2023]**Learning 3D Representations from 2D Pre-trained Models via
