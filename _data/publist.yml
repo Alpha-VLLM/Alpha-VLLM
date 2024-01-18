@@ -1,3 +1,40 @@
+- title: "**[ICLR 2024]**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
+  Attention"
+  image:
+  description: 
+  authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
+  link:
+    url: https://arxiv.org/abs/2303.16199v2
+    display: arXiv
+  highlight: 0
+
+- title: "**[ICLR 2024]**OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models"
+  image:
+  description: 
+  authors: Wenqi Shao, Mengzhao Chen, Zhaoyang Zhang, Peng Xu, Lirui Zhao, Zhiqian Li, Kaipeng Zhang, Peng Gao, Yu Qiao, Ping Luo
+  link:
+    url: https://arxiv.org/abs/2308.13137
+    display: arXiv
+  highlight: 0
+
+- title: "**[ICLR 2024]**Personalize Segment Anything Model with One Shot"
+  image:
+  description: 
+  authors: Renrui Zhang, Zhengkai Jiang, Ziyu Guo, Shilin Yan, Junting Pan, Xianzheng Ma, Hao Dong, Peng Gao, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2305.03048
+    display: arXiv
+  highlight: 0
+
+- title: "**[ICLR 2024]**BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation"
+  image:
+  description: 
+  authors: 
+  link:
+    url: https://openreview.net/forum?id=gC6JTEU3jl
+    display: arXiv
+  highlight: 0
+
 - title: "**[CVPR 2023]**Learning 3D Representations from 2D Pre-trained Models via
   Image-to-Point Masked Autoencoders"
   image:
@@ -282,15 +319,5 @@
   authors: Peng Gao, Jiaming Han, Renrui Zhang, Ziyi Lin, Shijie Geng, Aojun Zhou, Wei Zhang, Pan Lu, Conghui He, Xiangyu Yue, Hongsheng Li, Yu Qiao
   link:
     url: https://arxiv.org/abs/2304.15010
-    display: arXiv
-  highlight: 0
-
-- title: "**[Arxiv 2023]**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
-  Attention"
-  image:
-  description: 
-  authors: Renrui Zhang, Jiaming Han, Chris Liu, Peng Gao, Aojun Zhou, Xiangfei Hu, Shilin Yan, Pan Lu, Hongsheng Li, Yu Qiao
-  link:
-    url: https://arxiv.org/abs/2303.16199v2
     display: arXiv
   highlight: 0
