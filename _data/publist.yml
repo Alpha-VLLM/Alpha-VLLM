@@ -1,3 +1,33 @@
+- title: "**[CVPR 2024]**Less is More: Towards Efficient Few-shot 3D Semantic Segmentation via Training-free Networks"
+  image:
+  description: 
+  authors: Xiangyang Zhu, Renrui Zhang, Bowei He, Ziyu Guo, Jiaming Liu, Hao Dong, Peng Gao
+  link:
+    url: https://arxiv.org/abs/2308.12961
+    display: arXiv
+  highlight: 0
+
+
+- title: "**[CVPR 2024]**OneLLM: One Framework to Align All Modalities with Language"
+  image:
+  description: 
+  authors: Jiaming Han, Kaixiong Gong, Yiyuan Zhang, Jiaqi Wang, Kaipeng Zhang, Dahua Lin, Yu Qiao, Peng Gao, Xiangyu Yue
+  link:
+    url: https://arxiv.org/abs/2312.03700
+    display: arXiv
+  highlight: 0
+
+
+- title: "**[CVPR 2024]**Masked AutoDecoder is Effective Multi-Task Vision Generalist"
+  image:
+  description: 
+  authors: Han Qiu, Jiaxing Huang, Peng Gao, Lewei Lu, Xiaoqin Zhang, Shijian Lu
+  link:
+    url: 
+    display: arXiv
+  highlight: 0
+
+
 - title: "**[ICLR 2024]**LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init
   Attention"
   image:
