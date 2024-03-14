@@ -59,7 +59,7 @@
 - title: "**[ICLR 2024]**BESA: Pruning Large Language Models with Blockwise Parameter-Efficient Sparsity Allocation"
   image:
   description: 
-  authors: 
+  authors: Peng Xu, Wenqi Shao, Mengzhao Chen, Shitao Tang, Kaipeng Zhang, Peng Gao, Fengwei An, Yu Qiao, Ping Luo
   link:
     url: https://openreview.net/forum?id=gC6JTEU3jl
     display: openreview
