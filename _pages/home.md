@@ -9,9 +9,9 @@ permalink: /
  **We are hiring** interns, postdocs, and full-time researchers to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 ## Reseach Area
-- Mulitmodal Large Language Model, 
-- Generative Agenst
-- Diffusion Model
+- Mulitmodal Large Language Models
+- Generative Agents
+- Diffusion Models
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
