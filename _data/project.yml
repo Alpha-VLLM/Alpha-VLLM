@@ -1,3 +1,12 @@
+- title: "Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers"
+  image: lumina.png
+  description: Lumina-T2X is a unified framework for Text to Any Modality Generation. 
+  authors: <strong>Peng Gao, Le Zhuo, Dongyang Liu, Ruoyi Du, Xu Luo, Longtian Qiu</strong>, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao<sup>&dagger;</sup>, Hongsheng Li<sup>&dagger;</sup>
+  link:
+    url: https://github.com/Alpha-VLLM/Lumina-T2X
+    display: "![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X?style=social&label=Star)"
+  highlight: 1
+
 - title: "LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention"
   image: adapter.png
   description: This repo proposes LLaMA-Adapter (V2), a lightweight adaption method for fine-tuning Instruction-following and Multi-modal LLaMA models.
@@ -59,7 +68,7 @@
   link:
     url: https://github.com/gaopengcuhk/Container
     display: "![Star](https://img.shields.io/github/stars/gaopengcuhk/Container?style=social&label=Star)"
-  highlight: 1
+  highlight: 0
 
 - title: "SMCA : Fast convergence of detr with spatially modulated co-attention"
   image:

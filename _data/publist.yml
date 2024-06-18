@@ -351,3 +351,12 @@
     url: https://arxiv.org/abs/2304.15010
     display: arXiv
   highlight: 0
+
+- title: "[Arxiv 2024]Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers"
+  image:
+  description:
+  authors: Peng Gao, Le Zhuo, Dongyang Liu, Ruoyi Du, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li
+  link:
+    url: https://arxiv.org/abs/2405.05945
+    display: arXiv
+  highlight: 0
